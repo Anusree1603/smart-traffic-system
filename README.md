@@ -33,3 +33,6 @@ Improves traffic flow, reduces delays for emergency vehicles, and monitors envir
 ![Traffic System 3](https://github.com/user-attachments/assets/88d57a69-e742-4713-9ca3-36596df17f6b)
 
 ![Traffic System 4](https://github.com/user-attachments/assets/92e187c4-df04-451f-96bd-86524f1ce2fd)
+
+## 👩‍💻 Author
+Anusree R
